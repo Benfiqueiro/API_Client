@@ -1,0 +1,46 @@
+[
+    {
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao.silva@example.com",
+    "idade": 28,
+    "endereco": {
+      "rua": "Rua das Flores",
+      "numero": 123,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01234-567"
+    },
+    "telefone": "(11) 98765-4321"
+  },
+
+  {
+    "id": 2,
+    "nome": "Maria Oliveira",
+    "email": "maria.oliveira@example.com",
+    "idade": 34,
+    "endereco": {
+      "rua": "Avenida Brasil",
+      "numero": 456,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22345-678"
+    },
+    "telefone": "(21) 99876-5432"
+  },
+
+  {
+    "id": 3,
+    "nome": "Carlos Souza",
+    "email": "carlos.souza@example.com",
+    "idade": 22,
+    "endereco": {
+      "rua": "Rua das Palmeiras",
+      "numero": 789,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "30123-456"
+    },
+    "telefone": "(31) 98765-1234"
+  }
+]
